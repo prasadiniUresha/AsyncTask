@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AsyncTask</string>
+    <string name="download">Download</string>
+    <string name="image_url">
+        https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Kelaniya.png/220px-Kelaniya.png
+    </string>
+</resources>
